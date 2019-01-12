@@ -2,6 +2,8 @@
 
 ## 私有组件仓库
 
+ 1.SYSideSlideRefresh (基于 `MJRefresh` 的 `UIScrollView` 侧滑控件)
+ 
 ## 破解App私有仓库
 
  1. GifMaker
